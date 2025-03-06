@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haythem Mekki</h1>
 <h3 align="center">A passionate FullStack-Engineer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **GenAI**
 
 - 💬 Ask me about **React,Angular,Spring boot,.net,Nestjs,expressJs**
 
-- 📫 How to reach me **haythem.mekki@esprit.tn**
+- 📫 How to reach me **h.mekki@stud.fh-sm.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
